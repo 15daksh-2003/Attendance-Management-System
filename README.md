@@ -1,6 +1,6 @@
 # Attendance-Management-System
 
-The system mainly works around 2 types of users
+The system mainly works around 2 types of users:
 1.Employee
 2.Admin
 
